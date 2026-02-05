@@ -1,9 +1,9 @@
-# Python Firebase RD Module v1.0.0 #
+# Python Firebase RD Module (FBRD) v1.0.0 #
 #### Created by Arhum Ather
 
 ## Description
 
-The Python Firebase RD (Realtime Database) Module is a custom module designed for accessing and updating nodes in the Realtime Database to and from Google's Firebase using the [REST API](https://firebase.google.com/docs/database/rest/start). 
+The Python FBRD (Firebase Realtime Database) Module is a custom wrapper designed for accessing and updating nodes in the Realtime Database to and from Google's Firebase using the [REST API](https://firebase.google.com/docs/database/rest/start). 
 
 It includes features such as:
 
