@@ -1,5 +1,6 @@
 # Python Firebase RD Module (FBRD) v1.0.0 #
 #### Created by Arhum Ather
+###### Inspired by [MXKhronos' FirebaseService Module](https://devforum.roblox.com/t/open-source-firebaseservice/296753)
 
 ## Description
 
